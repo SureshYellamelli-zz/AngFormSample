@@ -1,4 +1,6 @@
 {
+
+  tslint.enable : false
   "rulesDirectory": [
     "node_modules/codelyzer"
   ],
